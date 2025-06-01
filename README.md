@@ -98,11 +98,3 @@ This project implements a pathfinding and reinforcement learning agent for solvi
 3. Watch the agent learn and find the treasure!
 
 ---
-
-## 🧠 Future Improvements
-
-- Add Dyna-Q or SARSA for enhanced exploration
-- Tune hyperparameters dynamically
-- Extend to non-deterministic environments
-
----
